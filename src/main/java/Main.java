@@ -13,6 +13,6 @@ public class Main {
             if (n == 10 & ans == 0) ans = i;
         }while (n != 0);
 
-        System.out.println("ANS:"+ans);
+        System.out.println(ans);
     }
 }
