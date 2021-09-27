@@ -11,7 +11,7 @@ public class Main {
             if (n1 == 0) break;
             i += 1;
             if (n == 10 & ans == 0) ans = i;
-        }while (n != 0);
+        }while (n1 != 0);
 
         System.out.println(ans);
     }
